@@ -7077,7 +7077,7 @@
     <Key>AntiGravTechno</Key>
     <Category>logistics</Category>
     <Tier>0</Tier>
-    <CraftedKey>Techno_Lift</CraftedKey>
+    <CraftedKey>TechnoLift</CraftedKey>
     <CraftedAmount>1</CraftedAmount>
     <Costs>
       <CraftCost>
