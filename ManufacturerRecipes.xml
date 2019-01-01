@@ -7074,7 +7074,7 @@
 	</CraftData>
 
   <CraftData>
-    <Key>Anti_Grav_Techno</Key>
+    <Key>AntiGravTechno</Key>
     <Category>logistics</Category>
     <Tier>0</Tier>
     <CraftedKey>Techno_Lift</CraftedKey>
@@ -7090,10 +7090,10 @@
   </CraftData>
   
   <CraftData>
-    <Key>Anti_Grav_Rainbow</Key>
+    <Key>AntiGravRainbow</Key>
     <Category>logistics</Category>
     <Tier>0</Tier>
-    <CraftedKey>Rainbow_Lift</CraftedKey>
+    <CraftedKey>RainbowLift</CraftedKey>
     <CraftedAmount>1</CraftedAmount>
     <Costs>
       <CraftCost>
@@ -7106,10 +7106,10 @@
   </CraftData>
 
   <CraftData>
-    <Key>Anti_Grav_Predator</Key>
+    <Key>AntiGravPredator</Key>
     <Category>logistics</Category>
     <Tier>0</Tier>
-    <CraftedKey>Predator_Lift</CraftedKey>
+    <CraftedKey>PredatorLift</CraftedKey>
     <CraftedAmount>1</CraftedAmount>
     <Costs>
       <CraftCost>
